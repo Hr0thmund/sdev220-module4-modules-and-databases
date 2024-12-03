@@ -1,0 +1,5 @@
+*.txt
+notes/
+M4-Lab/
+Untitled.ipynb
+__pycache__/
